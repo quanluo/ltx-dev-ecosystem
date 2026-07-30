@@ -1,9 +1,7 @@
 # LTX.dev AI Video Ecosystem
 
-> **Independent platform notice:** This repository is maintained by
-> [LTX.dev](https://ltx.dev), an independent multi-model AI video creation
-> platform. It is not affiliated with or endorsed by Lightricks or any other
-> model provider. Model names and marks belong to their respective owners.
+> **About LTX.dev:** [LTX.dev](https://ltx.dev) is an independent multi-model
+> AI video creation platform.
 
 A curated ecosystem for multi-model AI video generation: source-linked
 comparisons, practical documentation, ComfyUI workflows, runnable examples,
