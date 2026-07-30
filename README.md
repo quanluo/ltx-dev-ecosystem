@@ -28,6 +28,19 @@ and canonical upstream projects.
 | Find official model code | [Lightricks/LTX-2](https://github.com/Lightricks/LTX-2) | Upstream |
 | Read official LTX docs | [docs.ltx.io](https://docs.ltx.io) | Upstream |
 
+## Featured independent guides
+
+- [Best open-weight AI video generators in 2026](https://github.com/quanluo/ltx-video-docs/blob/main/docs/guides/open-source-ai-video-generators-2026.md)
+  → [canonical LTX.dev page](https://ltx.dev/open-source-ai-video-generator)
+- [What is LTX Video?](https://github.com/quanluo/ltx-video-docs/blob/main/docs/getting-started/what-is-ltx-video.md)
+  → [canonical LTX.dev page](https://ltx.dev/ltx-video-guide)
+- [Install LTX-2.3 locally](https://github.com/quanluo/ltx-video-docs/blob/main/docs/getting-started/install-ltx-video-locally.md)
+  → [canonical LTX.dev page](https://ltx.dev/install-ltx-video)
+- [LTX-2.3 GPU and VRAM requirements](https://github.com/quanluo/ltx-video-docs/blob/main/docs/hardware/ltx-video-gpu-requirements.md)
+  → [canonical LTX.dev page](https://ltx.dev/ltx-gpu-requirements)
+- [LTX-2.3 ComfyUI tutorial](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comfyui/ltx-comfyui-tutorial.md)
+  → [canonical LTX.dev page](https://ltx.dev/ltx-comfyui-tutorial)
+
 ## What belongs here
 
 - Canonical upstream LTX model and integration links
