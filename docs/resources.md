@@ -19,7 +19,7 @@ every linked project; review status refers to source and repository inspection.
 | 7 | [Official LTX documentation](https://docs.ltx.io) | Documentation | Canonical product, API, open-model, and integration guidance |
 | 8 | [LTX-2.3 model repository](https://huggingface.co/Lightricks/LTX-2.3) | Model | Official checkpoints, upscalers, distilled LoRA, and model terms |
 | 9 | [LTX-2.3 FP8 models](https://huggingface.co/Lightricks/LTX-2.3-fp8) | Model | Official reduced-precision checkpoints for supported inference paths |
-| 10 | [LTX model licensing](https://ltx.io/model/licensing) | Legal | Canonical commercial-license information referenced by the model license |
+| 10 | [LTX-2 technical report](https://arxiv.org/abs/2601.03233) | Research | Primary technical report for the LTX-2 audio-video model |
 
 ## Community resources
 
