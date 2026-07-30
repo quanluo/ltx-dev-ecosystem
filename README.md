@@ -20,6 +20,7 @@ and canonical upstream projects.
 | Goal | Resource | Status |
 |---|---|---|
 | Understand the ecosystem | [Ecosystem map](docs/ecosystem-map.md) | Maintained |
+| Browse reviewed resources | [20-resource directory](docs/resources.md) | Source-reviewed |
 | Run an example | [LTX video examples](https://github.com/quanluo/ltx-video-examples) | Structure ready |
 | Find a ComfyUI workflow | [Workflow index](https://github.com/quanluo/ltx-comfyui-workflows) | Structure ready |
 | Learn prompt design | [Prompt cookbook](https://github.com/quanluo/ltx-video-prompts) | Structure ready |
@@ -35,6 +36,9 @@ and canonical upstream projects.
 - Prompt recipes with settings and provenance
 - Installation, hardware, optimization, and troubleshooting guides
 - Community tools that meet the published inclusion criteria
+
+The first [20-resource directory](docs/resources.md) distinguishes official,
+independent, and community-owned assets and records why each resource is useful.
 
 ## Editorial principles
 

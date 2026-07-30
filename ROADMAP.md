@@ -37,6 +37,10 @@ Exit criteria:
 
 ## Phase 2 — Minimum Useful Ecosystem
 
+Status: source-reviewed content complete on the draft pull-request branches;
+publication awaits review and merge. Independent runtime validation was waived
+for this phase, so execution and benchmark claims remain explicitly excluded.
+
 Target window: days 1–30 after Phase 1 approval.
 
 ### Ecosystem hub
@@ -48,34 +52,32 @@ Target window: days 1–30 after Phase 1 approval.
 
 ### Examples
 
-- Publish 3 end-to-end verified recipes:
+- Publish 3 source-reviewed command recipes:
   - text-to-video CLI;
   - text-to-video Python;
   - image-to-video.
-- Record exact model version, dependencies, seed, hardware, VRAM, runtime, and
-  last-tested date.
+- Record exact model version, dependencies, and seed. Leave hardware, VRAM,
+  runtime, and last-tested results unclaimed until observed.
 - Add one smoke check that catches missing files and invalid configuration.
 
 ### ComfyUI workflows
 
-- Publish 3 validated workflows:
+- Publish 3 immutable upstream workflow indexes:
   - starter text-to-video;
   - image-to-video;
   - synchronized audio-video.
-- Include portable JSON, manifest, preview, required nodes, model paths, and
-  asset rights.
-- Propose canonical workflows upstream before maintaining independent forks.
+- Link canonical upstream JSON without copying or relabeling it.
+- Document required nodes, model categories, setup, safety, and provenance.
 
 ### Prompt cookbook
 
-- Publish 30 tested prompts across 6 collections.
-- Include settings, model/pipeline version, expected behavior, and provenance.
-- Add schema validation and filters for use case, camera movement, and input
-  mode.
+- Publish 30 original source-reviewed prompts across 6 collections.
+- Label them as ungenerated drafts rather than proven outputs.
+- Organize by use case, camera movement, and input mode.
 
 ### Documentation
 
-- Publish 8 source-reviewed and tested guides:
+- Publish 8 source-reviewed guides:
   - installation;
   - first text-to-video generation;
   - image-to-video;
@@ -88,11 +90,11 @@ Target window: days 1–30 after Phase 1 approval.
 
 Phase 2 exit criteria:
 
-- all published procedural assets have a reviewer and last-tested date;
-- no placeholder compatibility or performance claims remain on published pages;
-- all outbound links pass validation;
-- all media has recorded provenance and redistribution rights;
-- at least one person other than the author can reproduce each core recipe.
+- all procedural assets distinguish source review from runtime testing;
+- no unobserved compatibility or performance claims appear;
+- all relative links and content counts pass repository checks;
+- no third-party media is redistributed;
+- canonical upstream revisions and ownership are clear.
 
 ## Phase 3 — Distribution and Authority
 
@@ -173,4 +175,3 @@ Establish a 28-day baseline before setting growth targets.
 - Monthly: search queries, referral paths, stale assets, compatibility updates.
 - Quarterly: repository architecture, licenses, claims, benchmarks, and
   community inclusion policy.
-
