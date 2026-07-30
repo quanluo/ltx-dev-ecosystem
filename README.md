@@ -24,6 +24,11 @@ prompt recipes, and canonical upstream projects.
 | Compare platform approaches | [LTX.dev vs Runway](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/ltx-dev-vs-runway.md) |
 | Use Kling in a multi-model workflow | [LTX.dev vs Kling AI](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/ltx-dev-vs-kling.md) |
 | Compare downloadable video models | [Open-weight model comparison](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/open-source-ai-video-models.md) |
+| Evaluate open-weight Sora alternatives | [Independent developer comparison](https://github.com/quanluo/ltx-video-docs/blob/main/docs/comparisons/open-source-sora-alternatives-2026.md) |
+| Integrate the LTX API | [Independent LTX API guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/developers/ltx-api-guide.md) |
+| Build an AI video application | [Application architecture guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/developers/build-ai-video-app-with-ltx-api.md) |
+| Navigate all developer resources | [LTX model developer guide](https://github.com/quanluo/ltx-video-docs/blob/main/docs/developers/ltx-developer-guide.md) |
+| Plan an AI film | [AI filmmaking workflow](https://github.com/quanluo/ltx-video-docs/blob/main/docs/filmmaking/ai-filmmaking-workflow-with-ltx.md) |
 | Find a ComfyUI workflow | [Workflow library](https://github.com/quanluo/ltx-video-docs/blob/main/docs/workflows/ltx-workflow-library.md) |
 | Run a local example | [LTX video examples](https://github.com/quanluo/ltx-video-examples) |
 | Improve a prompt | [Prompt cookbook](https://github.com/quanluo/ltx-video-prompts) |
@@ -76,4 +81,3 @@ or community-maintained.
 
 Original repository text is available under the [MIT License](LICENSE). Linked
 projects and media retain their own licenses.
-
